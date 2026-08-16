@@ -99,3 +99,22 @@ Based on empirical findings from the dataset, the proposed **₹1 Crore strategi
 **Rayan Dutt Sahu**  
 *Aspiring Data Analyst | Bachelors in Computer Applications in Data Science*  
 [LinkedIn Profile](https://linkedin.com/in/r-ds-05071216r/) | [GitHub Portfolio](https://github.com/r-DS16)
+
+---
+
+## Interactive Operational Dashboard
+
+The centerpiece of this project is the **AstroSage Call Center Performance Dashboard**, a high-fidelity analytical tool developed in Excel. This dashboard provides a consolidated view of all critical KPIs, enabling real-time operational monitoring and strategic decision-making.
+
+![Full Dashboard](assets/full_dashboard.png)
+
+### Dashboard Components & Logic
+
+The dashboard is structured into four primary analytical quadrants:
+
+1.  **Executive Control Panel & KPI Summaries**: Located on the left, this section allows for granular filtering by **Rating**, **Consultation Type**, **Call Length**, and **Month**. The top header provides immediate visibility into the **Total Sales (₹213,987)** and the **Repeat User Rate (81.15%)**, which is the primary driver of business sustainability.
+2.  **Temporal & Behavioral Trends**: The central charts track **Daily Call Volume vs. Average Rating** and **Daywise Sales Distribution**. These visuals highlight the extreme demand volatility and the specific days (e.g., Fridays) that generate peak revenue, informing flexible staffing requirements.
+3.  **Agent Performance Ranking**: The **Top 10 Gurus by Revenue** chart identifies the highest-value contributors to the platform. By benchmarking agents like **Dr. Balkrisna** and **Astro Ruchi**, management can derive best practices for underperforming staff.
+4.  **Operational Health Metrics**: The right-hand quadrant displays the **User Type** split (Repeating vs. Single), **Monthly Volume** shifts, and **Call Status** distribution (Completed, No-Answer, Busy, etc.). This provides a direct look at the technical efficiency of the call routing system.
+
+This dashboard serves as a functional prototype for a live operational monitoring system, bridging the gap between raw data collection and strategic business execution.
