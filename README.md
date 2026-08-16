@@ -82,23 +82,15 @@ Based on empirical findings from the dataset, the proposed **₹1 Crore strategi
 
 ```text
 ├── assets/
-│   ├── cover.png                # Project presentation title cover
-│   ├── daily_call_volume.png    # Time-series daily volume trend chart
-│   ├── revenue_concentration.png# Consultation sales breakdown donut chart
-│   ├── duration_vs_ratings.png  # Correlation and duration analysis chart
-│   └── agent_dashboard.png      # Top agent workload and performance dashboard
+│   ├── cover.png                 # Project presentation title cover
+│   ├── daily_call_volume.png     # Time-series daily volume trend chart
+│   ├── revenue_concentration.png # Consultation sales breakdown donut chart
+│   ├── duration_vs_ratings.png   # Correlation and duration analysis chart
+│   └── agent_dashboard.png       # Top agent workload and performance dashboard
 ├── docs/
 │   └── AstroSage_Project_Report.docx # Complete detailed project write-up
-└── README.md                    # Comprehensive project documentation
+└── README.md                     # Comprehensive project documentation
 ```
-
----
-
-## Author
-
-**Rayan Dutt Sahu**  
-*Aspiring Data Analyst | Bachelors in Computer Applications in Data Science*  
-[LinkedIn Profile](https://linkedin.com/in/r-ds-05071216r/) | [GitHub Portfolio](https://github.com/r-DS16)
 
 ---
 
@@ -118,3 +110,11 @@ The dashboard is structured into four primary analytical quadrants:
 4.  **Operational Health Metrics**: The right-hand quadrant displays the **User Type** split (Repeating vs. Single), **Monthly Volume** shifts, and **Call Status** distribution (Completed, No-Answer, Busy, etc.). This provides a direct look at the technical efficiency of the call routing system.
 
 This dashboard serves as a functional prototype for a live operational monitoring system, bridging the gap between raw data collection and strategic business execution.
+
+---
+
+## Author
+
+**Rayan Dutt Sahu**  
+*Aspiring Data Analyst | Bachelors in Computer Applications in Data Science*  
+[LinkedIn Profile](https://linkedin.com/in/r-ds-05071216r/) | [GitHub Portfolio](https://github.com/r-DS16)
